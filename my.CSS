@@ -1,0 +1,46 @@
+body {
+  font-family: 'Tahoma';
+  background: white;}
+p {
+  color: black;}
+.footer p {color: black;}
+
+
+.menu {
+  background-color:chocolate;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px}
+
+.main {
+  overflow: auto;
+  background-color: #f5f5f5;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px}
+
+.phptos {
+  overflow: auto;
+  background-color: #f7dd91;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  text-align: center;}
+    
+.phptos img {
+  border-style: solid;
+  border-width: 2px;
+  border-color: #426C35;
+  border-radius: 35px;
+  margin: 2px;
+  object-fit: cover;
+  object-position: top;}
+
+
+.footer {
+  overflow: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  background-color:cadetblue}
+ 
+ 
